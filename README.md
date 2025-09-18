@@ -12,4 +12,4 @@ I am Dreamrela, nice to meet you!
 **So Ready for some coding?**
 
 - *My Discord - `@hormaner`*
-- *Contact me at: `dream@cyroxmc.fun`*
+- *Contact me at: `dreamrela@cyroxmc.fun`*

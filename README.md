@@ -10,6 +10,6 @@ I am Dreamrela, nice to meet you!
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,maven)](https://skillicons.dev)
 
 - **So Ready for some coding?**
-- **                   - `@hormaner`**
-_ [![My Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-- **Contact me at: `dream@cyroxmc.fun`**
+- [![My Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+- *My Discord - `@hormaner`*
+- *Contact me at: `dream@cyroxmc.fun`*

@@ -7,7 +7,10 @@ I am Dreamrela, nice to meet you!
 - ⭐ Create automation tools & Discord bots to make life easier
 
 ### Languages I can dev in:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,maven)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <img height="80" src="https://skillicons.dev/icons?i=java,nodejs,python,html,css,git,github,vscode" alt="Tech stack icons" />
+</a>
+<a align="center href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DreamrelaXV&theme=tokyonight-duo&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
 **So Ready for some coding?**
 

@@ -8,9 +8,7 @@
 
 ## Dreamrela
 
-Backend & Minecraft developer, focused on clean systems and solid infrastructure.
-
-Currently working on: ranked matchmaking + queue reliability for a live BedWars network.
+Backend & Minecraft developer From India, focused on clean systems and solid infrastructure.
 
 <br/>
 

@@ -42,8 +42,8 @@ Backend & Minecraft developer From India, focused on clean systems and solid inf
 ## GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DreamrelaXV&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d" height="165" alt="github stats"/>
-<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DreamrelaXV&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d" height="165" alt="top languages"/>
+<img src="./assets/stats.svg" height="165" alt="github stats"/>
+<img src="./assets/top-langs.svg" height="165" alt="top languages"/>
 </p>
 
 <br/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=160&section=header&text=Hello,%20I'm%20Dreamrela&fontSize=42&fontColor=ffffff&fontAlignY=55" alt="header banner" width="100%"/>
+<img src="./assets/banner.svg" alt="header banner" width="100%"/>
 
 </div>
 
@@ -12,17 +12,9 @@ Backend & Minecraft developer, focused on clean systems and solid infrastructure
 
 <br/>
 
-## Currently Building
+## Projects
 
-- **[Project Name](link)** — one-line description of what it does
-- **[Project Name](link)** — one-line description of what it does
-
-<br/>
-
-## Things I've Shipped
-
-- **[Project Name](link)** — what it was and what you built/handled
-- **[Project Name](link)** — what it was and what you built/handled
+- **CRBW Bot** — Discord bot (Java/JDA) for a competitive Minecraft BedWars ecosystem — matchmaking, stats, moderation utilities
 
 <br/>
 

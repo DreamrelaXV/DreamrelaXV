@@ -10,11 +10,19 @@
 
 Backend & Minecraft developer, focused on clean systems and solid infrastructure.
 
+Currently working on: ranked matchmaking + queue reliability for a live BedWars network.
+
 <br/>
 
 ## Projects
 
-- **CRBW Bot** — Discord bot (Java/JDA) for a competitive Minecraft BedWars ecosystem — matchmaking, stats, moderation utilities
+**CRBW Bot** — Discord bot (Java/JDA) powering a competitive Minecraft ranked BedWars ecosystem.
+
+- Velocity proxy layer for cross-server session and queue handling
+- LuckPerms, PlaceholderAPI, and ProtocolLib integration for ranks, placeholders, and skin handling
+- SQLite-backed storage (migrated off YAML for reliability under load)
+- Custom cosmetic nick plugin — skin-swap via ProtocolLib without touching player identity, so queueing stays correctly keyed
+- Screenshare + punishment systems with per-source ban tracking and rate-limited cooldowns
 
 <br/>
 
@@ -29,6 +37,15 @@ Backend & Minecraft developer, focused on clean systems and solid infrastructure
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+</p>
+
+<br/>
+
+## GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=DreamrelaXV&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d" height="165" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamrelaXV&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d" height="165" alt="top languages"/>
 </p>
 
 <br/>

@@ -53,6 +53,8 @@ Backend & Minecraft developer From India, focused on clean systems and solid inf
 <p align="left">
 <a href="mailto:dremrela@gmail.com"><img src="https://img.shields.io/badge/Email-dremrela%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/DreamrelaXV"><img src="https://img.shields.io/badge/GitHub-DreamrelaXV-181717?style=flat-square&logo=github&logoColor=white"/></a>
+![Static Badge](https://img.shields.io/badge/Discord-Dreamrela?style=flat-square&logo=discord&logoColor=ffffff&color=707BF3&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1156225983486099597)
+
 </p>
 
 <br/>

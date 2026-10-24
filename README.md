@@ -12,15 +12,8 @@ Backend & Minecraft developer From India, focused on clean systems and solid inf
 
 <br/>
 
-## Projects
-
-**CRBW Bot** — Discord bot (Java/JDA) powering a competitive Minecraft ranked BedWars ecosystem.
-
-- Velocity proxy layer for cross-server session and queue handling
-- LuckPerms, PlaceholderAPI, and ProtocolLib integration for ranks, placeholders, and skin handling
-- SQLite-backed storage (migrated off YAML for reliability under load)
-- Custom cosmetic nick plugin — skin-swap via ProtocolLib without touching player identity, so queueing stays correctly keyed
-- Screenshare + punishment systems with per-source ban tracking and rate-limited cooldowns
+## Check out more at my portfolio
+- https://dreamrela.vercel.app/
 
 <br/>
 
